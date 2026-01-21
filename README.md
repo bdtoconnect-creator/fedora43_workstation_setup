@@ -30,5 +30,4 @@ To set up your entire environment in one command, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/fedora-setup-scripts.git](https://github.com/YOUR_USERNAME/fedora-setup-scripts.git)
-cd fedora-setup-scripts
+git clone https://github.com/bdtoconnect-creator/fedora43_workstation_setup.git
